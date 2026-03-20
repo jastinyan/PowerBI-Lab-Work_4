@@ -13,7 +13,7 @@
 ------
 
 ## PDF Documentation
-[View in Drive](https://docs.google.com/presentation/d/1_HJcFS4dmMiKTKTXZd6gaLvtI2IsyC31lbQO1V4xX9s/edit?usp=drive_link)
+[View in Drive](https://drive.google.com/file/d/1VHQb7ggkLe1fjEBzwHFD7Mi1RaoXY-uu/view?usp=drive_link)
 
 
 [View in Repository](./PowerBi_Files)
